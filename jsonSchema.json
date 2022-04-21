@@ -16,7 +16,7 @@
     "price": {
       "description": "The price of the product",
       "type": "number",
-      "exclusiveMinimum": 0
+      "exclusiveMinimum": true
     },
     "tags": {
       "description": "Tags for the product",
